@@ -1,0 +1,5 @@
+0 Learning:
+
+	0 Default = Every step = One book = 30 / Book's pages;
+
+	1 Advance = Every step = One book + Things come to know = Book's pages / Maximum potanciel of reading pages in 24H;

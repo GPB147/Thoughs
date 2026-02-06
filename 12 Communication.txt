@@ -1,0 +1,55 @@
+0 Communication:
+
+	0 A Dreamly Demand Organizm System For Vantage:
+
+		0 More Dreamly Demand:
+
+			0 Big Community= [Low Vantage]
+
+			1 Small Community = [High Vantage]
+
+		1 Less Dreamly Demand:
+
+			0 Big Community = [Medium Vantage]
+	
+			1 Small Community = [Legend Vantage]
+	
+	1 Programming=High Vantage(Dreamly Demand=%80 IN World & Community=%40 IN World):
+
+		0 Low Vantage(Dreamly Demand=%100 OF %80 & Community=%90 OF %40):
+
+			0 English
+	
+			1 Python 
+
+			2 Linux+Shell 
+
+		1 Medium Vantage(Dreamly Demand=%40 & Community=%60):
+
+			0 C
+
+			1 Computer Architecture & Memory
+
+			2 Assembly(x86, ARM, x86_64)
+
+		2 High Vantage(Dreamly Demand=%70 & Community=%30):
+
+			6 Networking
+
+			7 Operating System Internals(OS Internet) 
+
+			8 Reverse Engineering 
+
+		3 Legend Vantage(Dreamly Demand=%4 & Community=%3):
+
+			0 Malware(user/kernel/rootkits) 
+
+			1 Firmware / BIOS / UEFI 
+
+			2 Doing + Reading 
+
+	2 Basics:
+
+		0 Making A Comfort Zone
+
+		1 Disine This

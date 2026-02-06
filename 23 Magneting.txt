@@ -1,0 +1,11 @@
+0 Magneting:
+
+	0 Levels:
+
+		0 "People" and "thing you though" going to 'far of you'
+
+		1 "People" and "thing you though" goint to 'not far of you'
+
+		2 "People" and "thing you though" going to 'closing to you'
+
+		3 "People" and "thing you though" going to 'get you'

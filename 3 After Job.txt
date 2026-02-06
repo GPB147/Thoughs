@@ -1,0 +1,33 @@
+0 After Job:
+
+	0 Situation:
+
+		0 Working:
+
+			0 7H = [Sleep]
+
+			1 7H = [Remote working and learning]
+
+			2 4H = [Movies with english sub or non sub]
+
+			3 1H = [Shoping] 
+
+			4 1H = [Running + Vibration body(Sat + Mon +Wed)]
+
+			5 1H = [Cleaning]
+
+			6 1H = [Talking(3Eye)]
+
+			7 1H = [Thinking]
+
+			8 1H = [Free]
+	
+			9 Half allH = [Thu + Sat]
+
+			10 0H = [Fri]
+
+		1 Funs in grow way:
+
+			0 Free times = [Sleep, Doing one of time line thing I like this moment, Reading english book, Walking]
+
+			1 Free Thr + Fri + Sat times = [Traveling, Sleeping, Watching Movies, Walking, Ping Pong, Playing with peoples in society]

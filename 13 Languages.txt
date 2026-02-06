@@ -1,0 +1,27 @@
+0 Languages:
+
+	0 Communicating for ordering:		
+
+		0 English = [To humans]
+	
+		1 Python = [To softwares=Programs]
+
+		2 Linux+Shell = [To software=UNIX]
+
+		0 C = [To softwars+hardwars=machiens]
+
+		1 Computer Architecture & Memory = [To hardwars]
+
+		2 Assembly(x86, ARM, x86_64) = [To hardwars]
+
+		6 Networking = [To humans]
+
+		7 Operating System Internals(OS Internet) = [To system=windows]
+
+		8 Reverse Engineering = [To hardwars in a system]
+
+		0 Malware(user/kernel/rootkits) = [To softwars and hardwars]
+
+		1 Firmware / BIOS / UEFI = [To all hardwars and softwars]
+
+		2 Doing + Reading = []

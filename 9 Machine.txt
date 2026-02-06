@@ -1,0 +1,9 @@
+0 Machine
+
+	0 Enter = [Truth]
+
+	1 Modify = [New person]
+
+	1 Save = Enter
+
+	2 Exit = [?]

@@ -1,0 +1,11 @@
+0 Languages:
+
+	0 What:
+
+		0 Better communication = [Mostly communicated by that randomly] = [English, Worker, Python Programmer, Software Programmer] = [Relationship]
+
+		1 Worser communication = [Fewer communicated by that randomly] = [Russion, Doctor, Assembly Programmer, Hardware Programmer] = [Vantage]
+
+	
+
+			

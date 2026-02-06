@@ -1,0 +1,95 @@
+0 Situation:
+
+	0 Born:
+
+		0 earth:
+
+			0 Iran:
+
+				0 Marlik:
+
+					0 Family:
+
+						0 Low level Country and city and family
+
+						1 Family:
+
+							0 Poor city and family
+
+							1 Futher:
+
+								0 Low energy
+
+								1 Not smart
+
+								2 Good body but in false way
+
+							2 Mother:
+
+								0 High energy but in false way
+
+								1 Not smart
+
+								2 Good body but in false way
+
+							3 Sister:
+
+								0 Low energy
+
+								1 Not smart
+
+								2 Good body but in false way
+
+							4 Brother:
+
+								0 High energy but in false way
+
+								1 Not smart
+
+								2 Bad body
+
+							5 Me:
+
+								0 High energy
+
+								1 Not smart
+
+								2 Good body but in false way
+
+						2 Peples:
+
+							0 Alireza:
+
+								0 High energy in false way
+
+								1 Not smart
+
+								2 Good body but in false way
+
+							1 Vahid:
+
+								0 High energy
+	
+								1 Not smart
+
+								2 Bad body
+
+	1 Living:
+
+		0 Base money = [Komite, Hossein, Goverment(Yarane, Kalabarg)]
+
+		1 Not base money = [Sister, Brother, Mother]
+
+	1 Balancing:
+
+		0 3Eye = [Good enough just keep it and grow that very slowly]
+
+		1 Thinking = [Very very need to work but for this 3eye is the condition]
+
+		2 Body = [Good enough, Just keep it and grow that very slowly]
+					
+	1 My difficalty:
+
+		0 %87
+
+				

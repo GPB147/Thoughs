@@ -1,0 +1,42 @@
+0 Job:
+
+	0 What I want:
+
+		0 Time working control
+
+		1 Few people doing that
+
+		2 Having a sharp knife
+
+		3 Big money
+
+		4 Lower connect to peoples
+
+	1 Understanding:
+
+		0 Working as a job in a long time is not funny but you must do that for living 
+
+		1 Job is exist just for living and not more, This is just part of your life
+
+	2 Programming:
+
+		0 Requirements:
+
+			0 Need = [Long time working, Writeups, POCs, OpenSources]
+
+			1 Good if = [Technical license, Univercity license]
+
+		1 Cybersecurity:
+
+			0 Requirements:
+
+				0 Need = [Long way to learn and practical learn]
+
+			1 Firmware /UEFI/BIOS:
+
+				0 Requirements:
+
+					0 Need = [Very long way to learn and practical learn]
+
+	3 Time to getting job(Not exact) = [2027/04/01]
+	

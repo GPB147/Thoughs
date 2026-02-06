@@ -1,0 +1,7 @@
+0 Presure:
+
+	0 Skip = [Hard, I won't]
+
+	1 Reality = [Not this you thought it is]
+
+	2 Learning = [Examples]

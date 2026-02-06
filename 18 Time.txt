@@ -1,0 +1,9 @@
+0 Time:
+
+	0 What = [Pass and we doing on this]
+
+	2 Doing = [Two pint exist, befor and now , in befor we want now location so we go to now, and we just allways in now]
+
+	3 Wants = [So allways want thing you want to have it]
+
+	4 Like to have it = [Medidation, Programming, English]

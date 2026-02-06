@@ -1,0 +1,11 @@
+0 T:
+
+	0 Truth = [0]
+
+	1 No truth(Lie, Evolation, ...) = [100]
+
+	2 Truth in no truth = [Must deep inside] = Hardware
+
+	3 No truth in truth = [Must desining] = Software
+
+	

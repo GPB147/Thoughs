@@ -1,0 +1,25 @@
+0 Learning:
+
+	0 Concepts
+
+		0 Understanding = [Go to next step]
+
+		1 Not Understanding = [Go to next concept]
+
+	1 Wrteup
+
+		0 You thought it's good = [Writing]
+
+		1 You thought it's not = [Don't]
+
+	2 POC
+
+		0 You thought it's good enough = [Proofign]
+
+		1 You though it's not = [Don't]
+
+	3 Open Source
+
+		0 You thought it's nice = [Doing]
+
+		1 You thought it's not = [Don't]

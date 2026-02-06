@@ -1,0 +1,25 @@
+0 Just Do It:
+
+	0 Better in:
+
+		0 Process:
+
+			0 Hard 
+
+			1 Hard but fun = [Programming]
+
+			2 Fun but hard = [English, Medidation]
+
+			3 Fun
+
+			4 Pleasure
+	
+		1 It Self:
+
+			0 English
+
+			1 Medidation
+
+			2 Programming
+
+		

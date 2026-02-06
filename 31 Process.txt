@@ -1,0 +1,19 @@
+0 Process:
+
+	0 Original:
+
+		0 Power Of Two = [x != y, 1 2 4 8 16 32 64 128 256 512 1024 ...]
+
+		1 One Voltage = [x range or y range]
+
+		2 One Bit = [(x range voltage = 0) or (y range voltage = 1)] = 1Value
+
+		3 One Byte = [8Bit] = 256Values
+
+		4 One Thousand(1024 = Priority 10) Bytes = [1 KB, 1KB 2KB 4KB 8KB 16KB 32KB 64KB 128KB 256KB 512KB 1024KB=1MB]
+
+		5 One Milion(1048567 = Priority 20) Bytes = [1MB, 1MB 2MB 4MB 8MB 16MB 32MB 64MB 128MB 256MB 512MB 1024MB=1GB]
+
+		6 One Bilion(1073741824 = Priority 30) Bytes = [1GB, 1GB 2GB 4GB 8GB 16GB 32GB 64GB 128GB 256GB 512GB 1024GB=1XB]
+
+	1 Actual Numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]

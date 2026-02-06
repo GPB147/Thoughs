@@ -1,0 +1,53 @@
+0 Trust:
+
+	0 What = [Defining]
+
+	1 Working:
+
+		0 More defining = [More quantity, Less quality]
+
+		1 Less defining = [Less quantity, More quality]
+
+	2 Defining:
+
+		0 Level 0:
+
+			0 Nothing
+
+		1 Level 1:
+
+			0 Frequency 
+	
+			1 Vibration 
+
+			2 Energy 
+
+		2 Level 2:
+
+			0 Number
+
+			1 Word
+
+			2 Operator
+
+		3 Level 3:
+
+			0 Bit = [1-8]
+
+			1 Value
+
+			2 Meaning
+
+			3 Bytes = [1 Byte = 8 Bits = 256 Possible values = 256 Possible meanings]
+
+		4 Levels 4:
+
+			0 Analysis
+
+			1 Command
+
+			2 Program
+
+		5 Level 5:
+
+			0 AI

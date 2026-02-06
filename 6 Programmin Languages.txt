@@ -1,0 +1,74 @@
+0 Programming Languages:
+
+	0 Process:
+
+		0 What it is = [Specially for this language, Just learn to know]
+
+		1 Commands = [Just learn necesseries]
+
+		2 Variables = [Learn all]
+
+		3 Statements = [if, Calculations, Boolean, Learn all]
+
+		4 Expressions = [Variables + Statements, Learn all]
+
+		5 Iterations = [for, while, until, Learn all]
+
+		6 Defining commands as a one variable = [Learn all]
+
+		7 Input&Outputs = [Learn all]
+
+		8 Arrays = [Learn all]
+
+		9 OOP = [Object Oriented Programming, Pesonal customizing, Don't need to learn]
+
+		10 Libraries = [Just learn necesseries]
+
+		11 Advanced features = [Don't need to learn]
+
+		12 Deep in one area = [Don't need to learn]
+
+	1 Type
+
+		0 Python = [Automadation, A lot of libraries]
+
+		1 Linux + Sheel = [Controling system in UNIX level and talk to kernel] 
+
+		2 C = [Working with kernel]
+
+		3 Assembly = [Controling system in kernel level advance]
+
+1 My learning:
+
+	0 Basic:
+
+		0 English = [Reading and writing English language]
+
+		1 Python = [Automating, A lot of libraries]
+
+		2 Linux+Shell = [Controling system in UNIX level, Software]
+
+	1 Imediate:
+
+		0 C = [Working with kernel, Software + Hardware]
+
+		1 Computer Architecture & Memory = [Knowing hardwars]
+
+		2 Assembly(x86, ARM, x86_64) = [Controling system in kernel level]
+
+	2 Advance:
+
+		6 Networking = [Internet with hardwars]
+
+		7 Operating System Internals(OS Internet) = [Knowing windows(User=Kernel), Popularest and low securitiest system]
+
+		8 Reverse Engineering = [Fixing problems by binaries with specific tools]
+
+	3 Legend:
+
+		0 Malware(user/kernel/rootkits) = [Knowing attacks]
+
+		1 Firmware / BIOS / UEFI = [Knowing UEFI and BIOS in firmware in hardware with specific tools, Deepest thing in hardware]
+
+		2 Doing + Reading = [Practicing + Updating + Growing resume]
+

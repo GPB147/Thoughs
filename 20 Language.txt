@@ -1,0 +1,11 @@
+0 Internal:
+
+	0 Going to:
+
+		0 Inside:
+
+			0 Better Working = [Shell(GNU) and lower]
+
+		1 Outside:
+
+			0 Better Desine = [Upper than shell(GNU)]
