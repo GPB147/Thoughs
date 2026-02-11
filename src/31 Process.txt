@@ -2,18 +2,22 @@
 
 	0 Original:
 
-		0 Power Of Two = [x != y, 1 2 4 8 16 32 64 128 256 512 1024 ...]
+		0 Binary Logic = [A abstract that closest thing to our nature rule(Not exactly nature rule)]
 
-		1 One Voltage = [x range or y range]
+		1 Power Of Two = [x != y, 1 2 4 8 16 32 64 128 256 512 1024 ...]
 
-		2 One Bit = [(x range voltage = 0) or (y range voltage = 1)] = 1Value
+		2 One Voltage = [(x range = 0) or (y range = 1)]
 
-		3 One Byte = [8Bit] = 256Values
+		3 One Bit = [1bit=2Values, 1V 2V 4V 8V 16V 32V 64V 128V 256V=1B 512V 1024V]
 
-		4 One Thousand(1024 = Priority 10) Bytes = [1 KB, 1KB 2KB 4KB 8KB 16KB 32KB 64KB 128KB 256KB 512KB 1024KB=1MB]
+		4 256V = [1Byte, 1B 2B 4B 8B 16B 32B 64B 128B 256B 512B 1024B=1KB]
 
-		5 One Milion(1048567 = Priority 20) Bytes = [1MB, 1MB 2MB 4MB 8MB 16MB 32MB 64MB 128MB 256MB 512MB 1024MB=1GB]
+		5 1024B = [1KB, 1KB 2KB 4KB 8KB 16KB 32KB 64KB 128KB 256KB 512KB 1024KB=1MB]
 
-		6 One Bilion(1073741824 = Priority 30) Bytes = [1GB, 1GB 2GB 4GB 8GB 16GB 32GB 64GB 128GB 256GB 512GB 1024GB=1XB]
+		6 1024KB = [1MB, 1MB 2MB 4MB 8MB 16MB 32MB 64MB 128MB 256MB 512MB 1024MB=1GB]
+
+		7 1024MB = [1GB, 1GB 2GB 4GB 8GB 16GB 32GB 64GB 128GB 256GB 512GB 1024GB=1TB]
+
+		8 1024GB = [1GT, 1TB 2TB 4vB 8TB 16TB 32TB 64TB 128TB 256TB 512TB 1024TB=1XB]
 
 	1 Actual Numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]

@@ -1,0 +1,18 @@
+0 System:
+
+	0 Way 0:
+
+		0 CPU = [Executor like binaries]
+
+		1 Binaries = [Going to work]
+
+		2 Nodes = [Controllers by controlling execution priority(Sooner execution > Later execution]
+
+	1 Way 1:	
+
+		0 CPU = [Creater by execution of energy]
+
+		1 Binaries = [Shaper everything]
+
+		2 Nodes = [Customizing everything by priority]
+
