@@ -1,0 +1,39 @@
+0 Learning:
+
+	0 Long:
+
+		0 English = [Better quality in learning, Communication] = start
+		
+		1 Python = [Meeting programming] = Start
+
+		2 Linux + Terminal = [Knowing GNU] = Deep in system
+
+		3 C programming = [Meeting binaries] = Deep in binary
+
+		4 Computer Architecture & Memory = [Understanding binaries] = Deep in binary
+
+		5 Assembly(x86, ARM, x86_64) = [Understanding CPU and binaries that execute] = Deep in binary
+
+		6 Networking = [Knowing data flow] = Deep in data flow
+
+		7 Operating System Internals(OS Internals) = [Knowing kernel] = Deep in system
+
+		8 Reverse Engineering = [Working with binaries] = Deep in working with binary
+
+		9 Malware(user/kernel/rootkits) = [Techniques of working with binaries] = Deep in working with binariy
+
+		10 Firmware / BIOS / UEFI = [Knowing binaries deeper] = Deep in system
+
+	1 Short:
+
+		0 Start = [English, Python]
+
+		1 Deep in system = [Linux, OS, Firmware]
+
+		2 Deep in binary = [C, Arch, ASM]]
+
+		3 Deep in data flow = [Networking]
+
+		4 Deep in working with binary = [RE, Malware]
+
+

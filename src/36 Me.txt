@@ -1,0 +1,21 @@
+0 Me:
+
+	0 Reverse engineer:
+
+		0 what = [Workig with binaries]
+
+		1 Firmware:
+
+			0 What = [A compile cods written by C and Assembly that hardware execute fisrt = Trust]
+
+	1 Power:
+
+		0 Hardware (silicon, ROM, fuses)
+
+		1 Firmware (BIOS / UEFI) 
+
+		2 Bootloader
+
+		3 Kernel
+
+		4 Userland

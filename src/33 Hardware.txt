@@ -1,0 +1,21 @@
+0 Hardware:
+
+	0 CPU = [Brain]
+
+	1 RAM = [Short term memory]
+
+	2 Cache = [Instant reflex memory]
+
+	3 SPI Flach = [DNA / instincts]
+
+	4 Chipset/PCH = [Nervous system hub]
+
+	5 DMA = [Reflexes without thinking]
+
+	6 IOMMU = [Reflex control / safety lock]
+
+	7 Storage(SSD/HDD) = [Long term memory]
+
+	8 GPU = [Vision & visual cortex]
+
+	9 Embedded Controllers (EC / BMC / ME / PSP) = [Autonomic nervous system]
