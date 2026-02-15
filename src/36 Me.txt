@@ -10,12 +10,14 @@
 
 	1 Power:
 
-		0 Hardware (silicon, ROM, fuses)
+		0 Hardware (silicon, ROM, fuses) = [God's laws]
+	
+		1 Firmware (BIOS / UEFI) = [Brain = Choices]
 
-		1 Firmware (BIOS / UEFI) 
+		2 Bootloader = []
 
-		2 Bootloader
+		3 Hypervisor
 
-		3 Kernel
+		4 Kernel
 
-		4 Userland
+		5 Userland

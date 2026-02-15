@@ -1,0 +1,23 @@
+0 Time:
+
+	0 Day = 24 Hours:
+
+		0 7H = [Restarting body = Sleep] = Power0(Medidation)
+
+		1 7H = [Learning layers] = Power1(Money)
+
+		2 4H = [Applying] = Power1(Money)
+
+		4 6H = [Real life] = Power2(Body)
+
+	1 Usual Customize:
+
+		0 6-13 = [Learning layers]
+
+		1 13-17 = [Applying]
+
+		2 17-23 = [Free]
+
+		3 23-6 = [Sleep]
+
+	

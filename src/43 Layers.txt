@@ -1,0 +1,28 @@
+0 Layers:
+
+	0 Priority of running:
+
+		0 Hardware = [Making rules and limits by electrical language]
+
+		1 Designing hardware by compile languages(Verilog, VHDL, SystemVerilog)
+
+		2 Firmware = [Initialize and managing specific few hardware by one software per specific hardware by compile language directly(Microcode, Assembly, C, Hardware register)]
+
+		3 Bootloader = [Preparing environment for next layer by one specific software by compile languages(Assembly, C)]
+
+		4 Kernel = [Managing hardware by one specific software by compile language(C, C++, Rust, Assembly)]
+
+		5 Userland0 = [Managing software by specific languages(Shell, Python, C/C++, Configuration languages (YAML, JSON, TOML))]
+
+		6 Userland1 = [Software by a lot of languages(Python, C++, Java, Go, JavaScript, Rust, etc)]
+
+		7 Data flow by specific languages(SQL, HTTP, JSON, XML, Protocol buffers, Binary protocols) 
+
+
+
+
+
+
+
+ 
+
