@@ -1,0 +1,17 @@
+0 Jobs:
+
+	0 Deep:
+
+		0 CPU Microcode = [The god rules] 
+
+		1 Hypervisor = [Brain] 
+
+		2 Firmware = [Decisions = Trust] 
+
+	1 Points:
+
+		0 More power = [More deep]
+
+		1 More irreplaceable = [More hard to learn]
+
+		2 More potential for remote work = [] 

@@ -1,0 +1,13 @@
+0 Hacking:
+
+	0 Layer 0(UserLand) = [Applications, browsers] = Entry point via user actions
+
+	1 Layer 1(Kernel) = [Linux / NT kernel] = Run code as root/system
+
+	1 Layer 2(Hypervisor) = [VMware, KVM] = Escape VM → control host
+
+	1 Layer 3(Bootloader) = [GRUB, Windows BootMgr] = Load malicious kernel or hypervisor
+
+	1 Layer 4(Firmware) = [BIOS, UEFI] = Persist through OS reinstalls
+
+	1 Layer 5(Hardware) = [CPU, memory chips] = Implant / spy device, microcode exploit

@@ -1,0 +1,39 @@
+0 Short:
+
+	0 Power:
+
+		0 Enery = [Controling in self, Empty mind]
+
+		1 Money:
+
+			0 Upgrade layers knowledge = ["Fear" emotion]
+
+			1 Upgrade job and activity situation = ["You are the winer" emotion]
+
+			2 Fear process:
+
+				0 Find the target = [Communication]
+
+				1 Attack the program = [Penetration]
+
+				2 Reversing code = [Reverse Engineering]
+
+				3 Looking for weakness = [Knowledge]
+
+				4 Write exploit = [Exploit Development]
+
+				6 Gaine to downer = [Knowledge]
+
+		2 Body
+
+	1 Lifestyle:
+
+		0 Energy + Empty mind = [Upgrade personality]
+
+		1 (Pages of a book about layer / 30) + Writeup + POCs = [Upgrading money earning capability]
+
+		2 Look at your body = [Upgrading your controll in your body]
+
+		3 4 Iran and 4 other countries Request in remote job per a day = [Upgrading your chance to can earn money]
+
+		4 English movies = [Upgrading you communication capability]

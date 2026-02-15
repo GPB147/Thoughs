@@ -1,0 +1,9 @@
+0 Real:
+
+	0 Hardware
+
+	1 Low-level control
+
+	2 Operating system core
+
+	3 Application
