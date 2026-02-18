@@ -1,0 +1,50 @@
+0 Limits(Being specialist):
+
+	0 %100 Remote for every level even in expert level
+
+	1 Making POCs in every level even expert level
+
+	2 Highest potential in money making in expert level		
+
+	3 Already done = [English, Git, Python, Shell, C]
+
+	4 Irreplaceable
+
+	5 Passion = [Malwares in deep layer]
+
+	6 No academic degree and certification
+
+1 My way based my now skils:
+
+	0 Red Team Penetration Tester (Ethical Hacker) = [Kernel, Userland, Data Flow]
+
+	1 Malware Analyst/Reverse Engineer = [Firmware, Kernel, Userland]
+
+	2 Vulnerability Researcher/Exploitation Developer = [Hardware, Firmware, Bootloader, Kernel, Userland]
+
+	3 Threat Hunter (Proactive Security Analyst) = [Userland, Data Flow]
+
+	4 Offensive Security Engineer (Red Team Specialist) = [Kernel, Userland, Data Flow]
+
+	5 Digital Forensics Analyst (with Malware Focus) = [Firmware, Kernel, Userland]
+
+	6 Cybersecurity Consultant (Offensive Focus) = [Userland, Data Flow]
+
+	7 Cloud Security Engineer (with Exploit Focus) = [Kernel, Userland, Data Flow]
+
+
+
+
+Hi, I am Mohammad from Iran and 25 years old.
+I haven't no academic degree and I like to work %100 remotely with world.
+I like seeing and recognizing algorithm by that.
+I like to being that person who can penetrate to every layer(Hardware, Firmware, Bootloader, Kernel, Userland, Data Flow(Internet)) and gain downer.
+I chose to being expert Vulnerability Researcher/Exploitation Developer.
+I already doing steps in learning with specific one book with priority.
+I tell you my steps with one specific book for step and I want to you with priority give me other requirements to being expert Vulnerability Researcher/Exploitation Developer and for every step give me best one book to learn that step
+ 
+0 English
+1 Git = [Pro Git]
+2 Python = [Automate the Boring Stuff with Python by Al Sweigart]
+3 Shell = [Blum R. Linux Command Line and Shell Scripting Bible..Tutorial Resource 5ed 2026]
+4 C Programming = [The C Programming Language (2nd Edition)]
