@@ -51,5 +51,3 @@
 		7 Working Nomads
 
 		8 Remote100K
-
-		9 jobvision

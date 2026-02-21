@@ -1,0 +1,27 @@
+0 New_Short:
+
+	0 Energy = [Fuel]
+
+	1 Empty mind = [Focus]
+
+	2 Body = [Control]
+
+	3 Reading books + Writeup and PoC's if need:
+
+		0 What = [Layer concept]
+
+		1 Process:
+
+			0 (Pages of a book / 30) = Must to done everyday
+
+			1 More/Less pages do in a day = ((Pages left of this book / Days left of 30 days) = New must done everyday)
+
+	4 Repos + Open Sources + Issues + Posts = [Repudation]
+
+	5 Applying(Not everyday) = [Making mony]
+
+	6 Seeing movies with English sub(Not everyday)
+
+
+
+	
